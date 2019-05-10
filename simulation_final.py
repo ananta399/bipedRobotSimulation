@@ -47,6 +47,7 @@ def calculateMomentOfInertia():
 
 	return moi
 
+#returns the x coordinate of center of gravity
 def getCOG_X():
 	global motormass
 	global legmass
